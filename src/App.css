@@ -1,0 +1,98 @@
+
+body {
+  width: 50%;
+  margin: 0 auto;
+  background-color: #F0EDD4;
+  box-sizing: border-box;
+}
+
+.box {
+  max-width: 600px;
+  padding: 20px;
+  background-color: #BFDCE5;;
+  margin: 0 auto;
+  margin-top: 50px;
+  box-shadow: 4px 3px 5px rgba(1, 1, 1, 0.1);
+  border-radius: 10px;
+}
+header {
+  text-align: center;
+  font-family: poppins;
+}
+
+header h1 {
+  font-size: 70px;
+  color: #000203;
+  font-weight:300;
+}
+
+
+input {
+  background-color: #F0EDD4;
+  font-size: 15px;
+  color: #2c3e50;
+  margin-left: 25px;
+  width: 90%;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid #2c3e50;
+  padding: 10px;
+}
+
+.task {
+  background-color: #088395;
+  padding: 15px;
+  margin-right: 20px;
+  margin-left: -10px;
+  margin-bottom: 5px;
+  overflow-x: hidden;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.task span {
+  color: #f7f4f4;
+}
+
+.icon {
+  float: right;
+  margin-right: 20px;
+}
+
+article {
+  display: grid;
+}
+
+.edit-todo {
+  width: 70%;
+  font-size: 20px;
+  color: #B0DAFF;
+  background-color: #B0DAFF;
+  border: none;
+  border-bottom: 1px solid #FFFFFF;
+}
+
+.button {
+  margin: 0 15px;
+  padding: 10px;
+  font-size: 14px;
+  color: #03000b;
+  background-color: #FFF7D4;
+  border: none;
+  cursor: pointer;
+  width: 100px;
+  border-radius: 5px;
+  margin-top: 15px;
+}
+
+.button.selected {
+  color: #FFF;
+  background-color: #212A3E;
+}
+
+.button.clear {
+  float: right;
+  color: #FFF;
+  background-color: #fa0723;
+  width: 170px;
+}
