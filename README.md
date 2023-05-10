@@ -16,3 +16,7 @@ DONE TODOS
 
 ![image](https://github.com/Rhythmshah21/TODO_REACT-REDUX/assets/102286539/1a2fe5a2-27e3-467f-a66c-f788b4923bf4)
 
+REMOVING DONE TODOS
+
+
+![image](https://github.com/Rhythmshah21/TODO_REACT-REDUX/assets/102286539/11de73d0-2909-4cf1-aa87-481f854be416)
